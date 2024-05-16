@@ -1,7 +1,7 @@
 
 # Gabriel Eurico de Freitas Guedes
 
-Olá mundo, sou estudante do quarto semestre de Analise e Desenvolvimento de Sistemas, e estou iniciando minha jornada como Dev.
+Olá mundo, sou estudante do quarto semestre de Analise e Desenvolvimento de Sistemas, e estou iniciando minha jornada como Developer FullStack.
 
 ### Conecte-se comigo 
 
