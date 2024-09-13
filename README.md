@@ -1,7 +1,7 @@
 
 # Gabriel Eurico de Freitas Guedes
 
-Olá mundo, sou estudante do quarto semestre de Analise e Desenvolvimento de Sistemas, e estou iniciando minha jornada como Developer FullStack.
+Sou estudante de Análise e Desenvolvimento de Sistemas na IESB, com foco em desenvolvimento backend. Atualmente, estou me especializando em Node.js, onde tenho aprofundado meus conhecimentos e habilidades. Também possuo experiência com o framework Express, que utilizo para criar APIs robustas e escaláveis.
 
 ### Conecte-se comigo 
 
