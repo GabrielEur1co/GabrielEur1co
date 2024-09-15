@@ -35,4 +35,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na IESB, com foco em des
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielEur1co&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielEur1co&repo=API-champions-league-players&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GabrielEur1co/API-champions-league-playersProjeto-DioBank)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielEur1co&repo=API-champions-league-players&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GabrielEur1co/API-champions-league-players)
